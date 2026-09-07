@@ -210,6 +210,10 @@ node test_game_engine.js
 
 ---
 
+## 支持
+
+如果這個專案幫你省了點時間，可以[請我喝杯咖啡](https://buymeacoffee.com/iml1s)。
+
 ## 📄 授權條款與社群 (License & Community)
 
 本專案採用 [MIT License](LICENSE) 授權開放。
@@ -218,5 +222,3 @@ node test_game_engine.js
 - **GitHub 專案倉庫：** [https://github.com/ImL1s/typhoon-escape-taiwan](https://github.com/ImL1s/typhoon-escape-taiwan)
 - **問題回報與新地標建議：** [https://github.com/ImL1s/typhoon-escape-taiwan/issues](https://github.com/ImL1s/typhoon-escape-taiwan/issues)
 - **線上立即玩：** [https://iml1s.github.io/typhoon-escape-taiwan/](https://iml1s.github.io/typhoon-escape-taiwan/)
-
-
