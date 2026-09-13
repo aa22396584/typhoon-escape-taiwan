@@ -4,16 +4,19 @@
 
 # 🇹🇼 台灣大逃亡：颱風來啦！(Typhoon Escape Taiwan)
 
-> **Development home:** https://github.com/ImL1s/typhoon-escape-taiwan  
-> Please open issues and pull requests there.  
-> **Mirrors:** [Codeberg](https://codeberg.org/ImL1s/typhoon-escape-taiwan) · [GitLab](https://gitlab.com/aa22396584/typhoon-escape-taiwan)
+**Development, Issues & Pull Requests:**  
+https://github.com/aa22396584/typhoon-escape-taiwan
+
+**Mirrors:**  
+[GitLab](https://gitlab.com/aa22396584/typhoon-escape-taiwan) ·
+[Codeberg](https://codeberg.org/ImL1s/typhoon-escape-taiwan)
 
 
 <p align="center">
   <a href="https://iml1s.github.io/typhoon-escape-taiwan/"><img src="https://img.shields.io/badge/🎮_線上立即玩-Play_Now-00D2FF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Play Online"></a>
-  <a href="https://github.com/ImL1s/typhoon-escape-taiwan"><img src="https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repository"></a>
-  <a href="https://github.com/ImL1s/typhoon-escape-taiwan/stargazers"><img src="https://img.shields.io/github/stars/ImL1s/typhoon-escape-taiwan?style=for-the-badge&color=F5B400" alt="GitHub Stars"></a>
-  <a href="https://github.com/ImL1s/typhoon-escape-taiwan/releases"><img src="https://img.shields.io/github/v/release/ImL1s/typhoon-escape-taiwan?style=for-the-badge&color=4CAF50" alt="GitHub Release"></a>
+  <a href="https://github.com/aa22396584/typhoon-escape-taiwan"><img src="https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repository"></a>
+  <a href="https://github.com/aa22396584/typhoon-escape-taiwan/stargazers"><img src="https://img.shields.io/github/stars/ImL1s/typhoon-escape-taiwan?style=for-the-badge&color=F5B400" alt="GitHub Stars"></a>
+  <a href="https://github.com/aa22396584/typhoon-escape-taiwan/releases"><img src="https://img.shields.io/github/v/release/aa22396584/typhoon-escape-taiwan?style=for-the-badge&color=4CAF50" alt="GitHub Release"></a>
   <a href="LICENSE"><img src="https://img.shields.io/badge/License-MIT-blue?style=for-the-badge" alt="License: MIT"></a>
   <img src="https://img.shields.io/badge/Dependencies-Zero-brightgreen?style=for-the-badge" alt="Zero Dependencies">
 </p>
@@ -120,7 +123,7 @@
 
 ### 方式一：取得原始碼並直接執行
 ```bash
-git clone https://github.com/ImL1s/typhoon-escape-taiwan.git
+git clone https://github.com/aa22396584/typhoon-escape-taiwan.git
 cd typhoon-escape-taiwan
 ```
 直接用 Chrome、Safari、Edge、Firefox 點擊開啟目錄下的 `index.html` 即可立即遊玩！
@@ -224,6 +227,6 @@ node test_game_engine.js
 本專案採用 [MIT License](LICENSE) 授權開放。
 
 歡迎透過 GitHub 進行交流與貢獻：
-- **GitHub 專案倉庫：** [https://github.com/ImL1s/typhoon-escape-taiwan](https://github.com/ImL1s/typhoon-escape-taiwan)
-- **問題回報與新地標建議：** [https://github.com/ImL1s/typhoon-escape-taiwan/issues](https://github.com/ImL1s/typhoon-escape-taiwan/issues)
+- **GitHub 專案倉庫：** [https://github.com/aa22396584/typhoon-escape-taiwan](https://github.com/aa22396584/typhoon-escape-taiwan)
+- **問題回報與新地標建議：** [https://github.com/aa22396584/typhoon-escape-taiwan/issues](https://github.com/aa22396584/typhoon-escape-taiwan/issues)
 - **線上立即玩：** [https://iml1s.github.io/typhoon-escape-taiwan/](https://iml1s.github.io/typhoon-escape-taiwan/)
