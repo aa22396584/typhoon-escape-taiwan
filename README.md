@@ -12,6 +12,8 @@ https://github.com/aa22396584/typhoon-escape-taiwan
 [Codeberg](https://codeberg.org/ImL1s/typhoon-escape-taiwan)
 
 
+> **Why this GitHub home?** Public development moved here from [`ImL1s/typhoon-escape-taiwan`](https://github.com/ImL1s/typhoon-escape-taiwan) because that GitHub account is currently restricted (anonymous visitors get 404 on the profile and many assets). This is the same project. Please open Issues and Pull Requests here.
+
 <p align="center">
   <a href="https://iml1s.github.io/typhoon-escape-taiwan/"><img src="https://img.shields.io/badge/🎮_線上立即玩-Play_Now-00D2FF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Play Online"></a>
   <a href="https://github.com/aa22396584/typhoon-escape-taiwan"><img src="https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repository"></a>
